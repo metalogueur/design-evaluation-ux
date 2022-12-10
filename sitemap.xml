@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/cours/</loc>
+    <lastmod>2022-12-10T16:18:04-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/</loc>
+    <lastmod>2022-12-10T16:18:04-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/cours/introduction-%C3%A0-lexp%C3%A9rience-utilisateur/</loc>
+    <lastmod>2022-12-10T16:18:04-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/reflexions/principal-acteur/</loc>
+    <lastmod>2022-12-10T16:18:04-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/tags/</loc>
+    <lastmod>2022-12-10T16:18:04-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/tags/utilisateurs/</loc>
+    <lastmod>2022-12-10T16:18:04-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/tags/analytiques-web/</loc>
+    <lastmod>2022-12-10T16:01:21-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-friction-donnees-analytiques/</loc>
+    <lastmod>2022-12-10T16:01:21-05:00</lastmod>
+  </url><url>
+    <loc>https://metalogueur.github.io/design-evaluation-ux/reflexions/implication-des-utilisateurs/</loc>
+    <lastmod>2022-12-10T15:45:07-05:00</lastmod>
+  </url><url>
     <loc>https://metalogueur.github.io/design-evaluation-ux/recherche/</loc>
     <lastmod>2022-12-03T14:46:48-05:00</lastmod>
   </url><url>
     <loc>https://metalogueur.github.io/design-evaluation-ux/a-propos/</loc>
     <lastmod>2022-12-03T14:32:59-05:00</lastmod>
-  </url><url>
-    <loc>https://metalogueur.github.io/design-evaluation-ux/</loc>
-    <lastmod>2022-12-03T14:32:04-05:00</lastmod>
   </url><url>
     <loc>https://metalogueur.github.io/design-evaluation-ux/reflexions/</loc>
     <lastmod>2022-12-03T14:32:04-05:00</lastmod>
@@ -21,7 +45,5 @@
     <lastmod>2022-12-03T14:31:02-05:00</lastmod>
   </url><url>
     <loc>https://metalogueur.github.io/design-evaluation-ux/categories/</loc>
-  </url><url>
-    <loc>https://metalogueur.github.io/design-evaluation-ux/tags/</loc>
   </url>
 </urlset>

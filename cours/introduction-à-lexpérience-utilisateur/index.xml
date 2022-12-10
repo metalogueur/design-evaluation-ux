@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Design et évaluation UX</title>
-    <link>https://metalogueur.github.io/design-evaluation-ux/</link>
-    <description>Recent content on Design et évaluation UX</description>
+    <title>Introduction à l&#39;expérience utilisateur on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/cours/introduction-%C3%A0-lexp%C3%A9rience-utilisateur/</link>
+    <description>Recent content in Introduction à l&#39;expérience utilisateur on Design et évaluation UX</description>
     <image>
       <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
       <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
-    <lastBuildDate>Sat, 10 Dec 2022 16:18:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 16:18:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/cours/introduction-%C3%A0-lexp%C3%A9rience-utilisateur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le principal acteur</title>
       <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/principal-acteur/</link>
@@ -44,16 +44,6 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;La pratique de l&amp;rsquo;UX implique des utilisateurs à chaque moment du projet.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</description>
-    </item>
-    
-    
-    <item>
-      <title>À propos de ce site</title>
-      <link>https://metalogueur.github.io/design-evaluation-ux/a-propos/</link>
-      <pubDate>Sat, 03 Dec 2022 14:32:59 -0500</pubDate>
-      
-      <guid>https://metalogueur.github.io/design-evaluation-ux/a-propos/</guid>
-      <description>Qui? quand? Comment? Ce sont des questions qu&amp;rsquo;on se pose en UX. Ici, je vous explique le pourquoi de ces pages.</description>
     </item>
     
   </channel>

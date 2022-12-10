@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cours on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/cours/</link>
+    <description>Recent content in Cours on Design et évaluation UX</description>
+    <image>
+      <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
+      <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sat, 10 Dec 2022 16:18:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/cours/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction à l&#39;expérience utilisateur</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/cours/introduction-%C3%A0-lexp%C3%A9rience-utilisateur/</link>
+      <pubDate>Sat, 10 Dec 2022 16:18:04 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/cours/introduction-%C3%A0-lexp%C3%A9rience-utilisateur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

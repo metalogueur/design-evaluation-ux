@@ -10,6 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sat, 10 Dec 2022 16:18:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utilisateurs</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/tags/utilisateurs/</link>
+      <pubDate>Sat, 10 Dec 2022 16:18:04 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/tags/utilisateurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytiques Web</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/tags/analytiques-web/</link>
+      <pubDate>Sat, 10 Dec 2022 16:01:21 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/tags/analytiques-web/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

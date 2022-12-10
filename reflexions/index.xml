@@ -12,5 +12,39 @@
     <language>fr-ca</language>
     <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
     <lastBuildDate>Sat, 03 Dec 2022 14:32:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/reflexions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le principal acteur</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/principal-acteur/</link>
+      <pubDate>Sat, 10 Dec 2022 16:18:04 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/principal-acteur/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Le principal acteur du processus UX est l&amp;rsquo;utilisateur, dans toutes ses incarnations.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Les points de frictions vus à travers les données analytiques</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-friction-donnees-analytiques/</link>
+      <pubDate>Sat, 10 Dec 2022 16:01:21 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-friction-donnees-analytiques/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Les données en disent long sur les points de friction d&amp;rsquo;un site Web ou d&amp;rsquo;une application.&lt;/em&gt;
+&lt;em&gt;Les experts UX vont les consulter avant de se lancer dans un projet.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Implication des utilisateurs</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/implication-des-utilisateurs/</link>
+      <pubDate>Sat, 10 Dec 2022 15:45:07 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/implication-des-utilisateurs/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;La pratique de l&amp;rsquo;UX implique des utilisateurs à chaque moment du projet.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
   </channel>
 </rss>

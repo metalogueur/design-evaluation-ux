@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Analytiques Web on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/tags/analytiques-web/</link>
+    <description>Recent content in Analytiques Web on Design et évaluation UX</description>
+    <image>
+      <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
+      <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sat, 10 Dec 2022 16:01:21 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/analytiques-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les points de frictions vus à travers les données analytiques</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-friction-donnees-analytiques/</link>
+      <pubDate>Sat, 10 Dec 2022 16:01:21 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-friction-donnees-analytiques/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Les données en disent long sur les points de friction d&amp;rsquo;un site Web ou d&amp;rsquo;une application.&lt;/em&gt;
+&lt;em&gt;Les experts UX vont les consulter avant de se lancer dans un projet.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
