@@ -72,11 +72,11 @@ params:
     imageTitle: Benoit Hamel
     buttons:
       - name: Réflexions
-        url: /reflexions
+        url: /design-evaluation-ux/reflexions
       - name: Travaux
-        url: /travaux
+        url: /design-evaluation-ux/travaux
       - name: Portfolio
-        url: /portfolio
+        url: /design-evaluation-ux/portfolio
 
   # home-info mode
   # homeInfoParams:
