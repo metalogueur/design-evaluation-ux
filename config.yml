@@ -10,6 +10,11 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+taxonomies:
+  category: categories
+  tag: tags
+  cours: cours
+
 minify:
   disableXML: true
   minifyOutput: true

@@ -1,7 +1,10 @@
 ---
-title: "Reflexions"
-date: 2022-12-03T14:32:04-05:00
+title: "Le principal acteur"
+date: 2022-12-10T16:18:04-05:00
 draft: false
+cours: "Introduction à l'expérience utilisateur"
+tags: 
+    - "Utilisateurs"
 
 # PaperMod Page Variables (https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/#page-variables)
 showtoc: false
@@ -12,7 +15,7 @@ description: # Post description under title
 canonicalURL: 
 ShowCanonicalLink: false
 CanonicalLinkText:
-disableShare: false
+disableShare: true
 ShareButtons: # ["linkedin", "twitter"]
 disableHLJS: true # false to enable highlight.js loading
 disableAnchoredHeadings: false
@@ -40,9 +43,13 @@ images:
     - "img/profile-picture.png"
 ---
 
-Cette liste est un condensé de mes questionnements et autres réflexions concernant l'expérience
-utilisateur des interfaces interactives de la bibliothèque en général et du site Web en
-particulier.
+> *Le principal acteur du processus UX est l'utilisateur, dans toutes ses incarnations.*
+<!--more-->
 
-**Toutes les citations**, lorsqu'elles n'ont pas une source explicitement citée associée,
-proviennent du [cours]({{< ref "/cours/" >}}) auquel la réflexion est associée.
+Se pourrait-il que la bibliothèque (lire: ses employé.e.s) aient pris trop d'espace
+dans le processus décisionnel au détriment de notre clientèle?
+
+Par le jargon utilisé, par [l'implication des utilisateurs]({{< ref "/reflexions/implication-des-utilisateurs" >}}),
+avons-nous bien servi ces derniers?
+
+Nous le saurons lors du prochain projet...
