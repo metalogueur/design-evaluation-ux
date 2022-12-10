@@ -1,4 +1,4 @@
-baseURL: https://metalogueur.github.io/metalogueur/design_evaluation_ux
+baseURL: "https://metalogueur.github.io/design-evaluation-ux/"
 copyright: "&copy; 2022 [Benoit Hamel](https://www.metalogueur.com)"
 defaultContentLanguage: fr
 languageCode: fr-ca
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: "production" # production to enable google analytics, opengraph, twitter-cards and schema.
-  title: Design et évaluation UX
+  title: "Design et évaluation UX"
   description: "Réflexions, travaux et portfolio UX liés au MicroMasters Design et Évaluation UX de HEC Montréal"
   keywords: [expérience utilisateur, user experience, ux, edX, HEC Montréal]
   author: Benoit Hamel
@@ -79,14 +79,12 @@ params:
   #  Content: Bienvenue sur mon terrain de jeu!
 
   socialIcons:
-    # - name: twitter
-    #   url: "https://twitter.com/"
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
-    # - name: linkedin
-    #   url: "https://ca.linkedin.com/in/benoit-hamel"
-    # - name: github
-    #   url: "https://github.com/metalogueur"
+     - name: web
+       url: "https://www.metalogueur.com"
+     - name: linkedin
+       url: "https://ca.linkedin.com/in/benoit-hamel"
+     - name: github
+       url: "https://metalogueur.github.io"
 
   analytics:
     # google:
