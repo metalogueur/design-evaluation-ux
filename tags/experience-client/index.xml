@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experience client on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/tags/experience-client/</link>
+    <description>Recent content in Experience client on Design et évaluation UX</description>
+    <image>
+      <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
+      <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sun, 11 Dec 2022 10:49:31 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/experience-client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;équipe CX</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/equipe-cx/</link>
+      <pubDate>Sun, 11 Dec 2022 10:49:31 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/equipe-cx/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Lorsqu&amp;rsquo;on souhaite revoir le design de produits et de services,&lt;/em&gt;
+&lt;em&gt;l&amp;rsquo;équipe CX transmet les connaissances actuelles du client /&lt;/em&gt;
+&lt;em&gt;utilisateur à l&amp;rsquo;équipe UX, que le chercheur UX bonifiera par&lt;/em&gt;
+&lt;em&gt;ses recherches.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

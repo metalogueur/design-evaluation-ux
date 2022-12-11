@@ -11,7 +11,92 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
-    <lastBuildDate>Sat, 10 Dec 2022 16:18:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 11:38:02 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Une fonctionnalité &#39;Ça ne fonctionne pas&#39;</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</link>
+      <pubDate>Sun, 11 Dec 2022 11:38:02 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</guid>
+      <description>&lt;p&gt;Ça ne pourrait pas être une bonne idée d&amp;rsquo;ajouter une fonctionnalité flottante
+&lt;em&gt;Ça ne fonctionne pas&lt;/em&gt; sur toutes les pages du site?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Itérations</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/iterations/</link>
+      <pubDate>Sun, 11 Dec 2022 11:11:50 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/iterations/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;[Dans le cycle de vie UX en général et le processus de design en particulier, les]&lt;/em&gt;
+&lt;em&gt;itérations garantissent que les améliorations sont apportées rapidement et au&lt;/em&gt;
+&lt;em&gt;besoin et elles diminuent les risques parce que le processus reste proche de&lt;/em&gt;
+&lt;em&gt;l&amp;rsquo;expérience utilisateur à tout moment.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>L&#39;experience employé</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/experience-employe/</link>
+      <pubDate>Sun, 11 Dec 2022 11:01:04 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/experience-employe/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;L&amp;rsquo;expérience employé (EX) est devenue une priorité absolue pour les ressources humaines.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>L&#39;équipe CX</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/equipe-cx/</link>
+      <pubDate>Sun, 11 Dec 2022 10:49:31 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/equipe-cx/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Lorsqu&amp;rsquo;on souhaite revoir le design de produits et de services,&lt;/em&gt;
+&lt;em&gt;l&amp;rsquo;équipe CX transmet les connaissances actuelles du client /&lt;/em&gt;
+&lt;em&gt;utilisateur à l&amp;rsquo;équipe UX, que le chercheur UX bonifiera par&lt;/em&gt;
+&lt;em&gt;ses recherches.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Points de contact</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-de-contact/</link>
+      <pubDate>Sun, 11 Dec 2022 10:36:03 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-de-contact/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Nous devons identifier les points de contact les plus importants, c&amp;rsquo;est-à-dire&lt;/em&gt;
+&lt;em&gt;les moments de vérité qu&amp;rsquo;une marque contrôle afin d&amp;rsquo;en améliorer l&amp;rsquo;expérience&lt;/em&gt;
+&lt;em&gt;au maximum.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projets de développement</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/projets-de-developpement/</link>
+      <pubDate>Sun, 11 Dec 2022 10:27:28 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/projets-de-developpement/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Un nombre trop élevé de projets de développement logiciel échouent,&lt;/em&gt;
+&lt;em&gt;car ils n&amp;rsquo;ont pas été développés en pensant à l&amp;rsquo;utilisateur.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comprendre les utilisateurs</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/comprendre-les-utilisateurs/</link>
+      <pubDate>Sun, 11 Dec 2022 10:05:54 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/comprendre-les-utilisateurs/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Il faut comprendre qui sont nos utilisateurs avant d&amp;rsquo;identifier nos tâches.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>Le principal acteur</title>
       <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/principal-acteur/</link>

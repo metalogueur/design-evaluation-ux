@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cycle UX on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/tags/cycle-ux/</link>
+    <description>Recent content in Cycle UX on Design et évaluation UX</description>
+    <image>
+      <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
+      <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sun, 11 Dec 2022 11:11:50 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/cycle-ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Itérations</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/iterations/</link>
+      <pubDate>Sun, 11 Dec 2022 11:11:50 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/iterations/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;[Dans le cycle de vie UX en général et le processus de design en particulier, les]&lt;/em&gt;
+&lt;em&gt;itérations garantissent que les améliorations sont apportées rapidement et au&lt;/em&gt;
+&lt;em&gt;besoin et elles diminuent les risques parce que le processus reste proche de&lt;/em&gt;
+&lt;em&gt;l&amp;rsquo;expérience utilisateur à tout moment.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

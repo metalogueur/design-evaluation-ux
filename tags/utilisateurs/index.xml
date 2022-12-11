@@ -11,7 +11,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
-    <lastBuildDate>Sat, 10 Dec 2022 16:18:04 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/utilisateurs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 10:05:54 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/utilisateurs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprendre les utilisateurs</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/comprendre-les-utilisateurs/</link>
+      <pubDate>Sun, 11 Dec 2022 10:05:54 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/comprendre-les-utilisateurs/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Il faut comprendre qui sont nos utilisateurs avant d&amp;rsquo;identifier nos tâches.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>Le principal acteur</title>
       <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/principal-acteur/</link>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Developpement on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/tags/developpement/</link>
+    <description>Recent content in Developpement on Design et évaluation UX</description>
+    <image>
+      <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
+      <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sun, 11 Dec 2022 11:38:02 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/developpement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Une fonctionnalité &#39;Ça ne fonctionne pas&#39;</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</link>
+      <pubDate>Sun, 11 Dec 2022 11:38:02 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</guid>
+      <description>&lt;p&gt;Ça ne pourrait pas être une bonne idée d&amp;rsquo;ajouter une fonctionnalité flottante
+&lt;em&gt;Ça ne fonctionne pas&lt;/em&gt; sur toutes les pages du site?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Itérations</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/iterations/</link>
+      <pubDate>Sun, 11 Dec 2022 11:11:50 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/iterations/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;[Dans le cycle de vie UX en général et le processus de design en particulier, les]&lt;/em&gt;
+&lt;em&gt;itérations garantissent que les améliorations sont apportées rapidement et au&lt;/em&gt;
+&lt;em&gt;besoin et elles diminuent les risques parce que le processus reste proche de&lt;/em&gt;
+&lt;em&gt;l&amp;rsquo;expérience utilisateur à tout moment.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projets de développement</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/projets-de-developpement/</link>
+      <pubDate>Sun, 11 Dec 2022 10:27:28 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/projets-de-developpement/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Un nombre trop élevé de projets de développement logiciel échouent,&lt;/em&gt;
+&lt;em&gt;car ils n&amp;rsquo;ont pas été développés en pensant à l&amp;rsquo;utilisateur.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

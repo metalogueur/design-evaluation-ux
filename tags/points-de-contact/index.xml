@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Points de contact on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/tags/points-de-contact/</link>
+    <description>Recent content in Points de contact on Design et évaluation UX</description>
+    <image>
+      <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
+      <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
+    <lastBuildDate>Sun, 11 Dec 2022 11:38:02 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/points-de-contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Une fonctionnalité &#39;Ça ne fonctionne pas&#39;</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</link>
+      <pubDate>Sun, 11 Dec 2022 11:38:02 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</guid>
+      <description>&lt;p&gt;Ça ne pourrait pas être une bonne idée d&amp;rsquo;ajouter une fonctionnalité flottante
+&lt;em&gt;Ça ne fonctionne pas&lt;/em&gt; sur toutes les pages du site?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Points de contact</title>
+      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-de-contact/</link>
+      <pubDate>Sun, 11 Dec 2022 10:36:03 -0500</pubDate>
+      
+      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/points-de-contact/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Nous devons identifier les points de contact les plus importants, c&amp;rsquo;est-à-dire&lt;/em&gt;
+&lt;em&gt;les moments de vérité qu&amp;rsquo;une marque contrôle afin d&amp;rsquo;en améliorer l&amp;rsquo;expérience&lt;/em&gt;
+&lt;em&gt;au maximum.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
