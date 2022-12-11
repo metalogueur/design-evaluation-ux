@@ -1,8 +1,9 @@
 ---
 title: "Les points de frictions vus à travers les données analytiques"
 date: 2022-12-10T16:01:21-05:00
+lastmod: 2022-12-11T10:09:00:00-05:00
 draft: false
-cours: "Introduction à l'expérience utilisateur"
+cours: "Introduction a l'experience utilisateur"
 tags:
     - "Analytiques Web"
 
@@ -11,7 +12,7 @@ showtoc: false
 tocopen: false
 hidemeta: false
 comments: false
-description: # Post description under title
+summary: "Les données en disent long sur les points de friction d'un site Web ou d'une application..."
 canonicalURL: 
 ShowCanonicalLink: false
 CanonicalLinkText:

@@ -1,18 +1,17 @@
 ---
-title: "Implication des utilisateurs"
-date: 2022-12-10T15:45:07-05:00
-lastmod: 2022-12-11T10:08:00:00-05:00
+title: "L'équipe CX"
+date: 2022-12-11T10:49:31-05:00
 draft: false
 cours: "Introduction a l'experience utilisateur"
 tags: 
-    - "Utilisateurs"
+    - "Experience client"
 
 # PaperMod Page Variables (https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/#page-variables)
 showtoc: false
 tocopen: false
 hidemeta: false
 comments: false
-summary: "La pratique de l'UX implique des utilisateurs à chaque moment du projet..."
+description: # Post description under title
 canonicalURL: 
 ShowCanonicalLink: false
 CanonicalLinkText:
@@ -44,18 +43,20 @@ images:
     - "img/profile-picture.png"
 ---
 
-> *La pratique de l'UX implique des utilisateurs à chaque moment du projet.*
+> *Lorsqu'on souhaite revoir le design de produits et de services,*
+> *l'équipe CX transmet les connaissances actuelles du client /*
+> *utilisateur à l'équipe UX, que le chercheur UX bonifiera par*
+> *ses recherches.*
 <!--more-->
 
-Lors de la dernière refonte du site Web,
+Dans cette optique, notre équipe CX, ce sont les équipes du service
+de première et du service de l'aide à la recherche. Il faut donc
+considérer leur *input* de manière non négligeable.
 
-- les utilisateurs ont-ils *vraiment* été impliqués d'un bout à l'autre du processus?
-- y a-t-il eu d'autres études qui ont été menées à part l'originale qui identifiait les problèmes
-rencontrés par les utilisateurs et les pistes de solutions à envisager?
-- avons-nous fait tester les prototypes *Axure* qui avaient été développés?
-- y a-t-il eu d'autres études menées **après** le lancement du site Web pour confirmer ou infirmer
-la voie que nous avions prise dans la conception?
+Ces deux services compilent toutes sortes de statistiques sur les
+différentes interventions qu'ils font auprès de la clientèle.
+Consulter ces statistiques nous aidera à comprendre les usagers.
 
-À l'époque de la dernière refonte, j'étais au bas de la chaîne alimentaire du projet. Tout ou presque
-était fait aux étages supérieurs de la hiérarchie. Il me manque donc ces détails qui apporteraient
-un éclairage certain au projet.
+Il faut également recueillir tous les commentaires que les usagers
+ont transmis de manière officielle, soit par les courriels et le
+formulaire *Commentaires et suggestions* du site Web.

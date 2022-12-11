@@ -2,6 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+cours:
+tags:
 
 # PaperMod Page Variables (https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/#page-variables)
 showtoc: false
@@ -12,7 +14,7 @@ description: # Post description under title
 canonicalURL: 
 ShowCanonicalLink: false
 CanonicalLinkText:
-disableShare: false
+disableShare: true
 ShareButtons: # ["linkedin", "twitter"]
 disableHLJS: true # false to enable highlight.js loading
 disableAnchoredHeadings: false

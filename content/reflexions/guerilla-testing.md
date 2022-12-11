@@ -1,18 +1,18 @@
 ---
-title: "Le principal acteur"
-date: 2022-12-10T16:18:04-05:00
-lastmod: 2022-12-11T10:10:00:00-05:00
-draft: false
+title: "Guerilla Testing"
+date: 2022-12-11T11:27:06-05:00
+draft: true
 cours: "Introduction a l'experience utilisateur"
-tags: 
-    - "Utilisateurs"
+tags:
+    - "Tests"
+    - "Guerilla"
 
 # PaperMod Page Variables (https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/#page-variables)
 showtoc: false
 tocopen: false
 hidemeta: false
 comments: false
-summary: "Le principal acteur du processus UX est l'utilisateur, dans toutes ses incarnations..."
+description: # Post description under title
 canonicalURL: 
 ShowCanonicalLink: false
 CanonicalLinkText:
@@ -44,13 +44,15 @@ images:
     - "img/profile-picture.png"
 ---
 
-> *Le principal acteur du processus UX est l'utilisateur, dans toutes ses incarnations.*
+> *Guerilla usability testing is the art of pouncing on lone people in cafes*
+> *and public places, quickly filming them whilst they use a website for a*
+> *couple of minutes.*
+>
+> -- [Martin Belam](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)
 <!--more-->
 
-Se pourrait-il que la bibliothèque (lire: ses employé.e.s) aient pris trop d'espace
-dans le processus décisionnel au détriment de notre clientèle?
+Wow! :star_struck: Pourquoi est-ce que cette technique existe?!? 
 
-Par le jargon utilisé, par [l'implication des utilisateurs]({{< ref "/reflexions/implication-des-utilisateurs" >}}),
-avons-nous bien servi ces derniers?
-
-Nous le saurons lors du prochain projet...
+C'est TELLEMENT le genre de tests qu'on va adorer faire! Passer une journée à se promener
+dans la bibliothèque, à demander à notre clientèle si elle s'est servi du site Web, comment
+elle y a accédé, qu'est-ce qu'elle y a fait, si ses tâches ont été fructueuses ou non...

@@ -1,18 +1,19 @@
 ---
-title: "Le principal acteur"
-date: 2022-12-10T16:18:04-05:00
-lastmod: 2022-12-11T10:10:00:00-05:00
+title: "Une fonctionnalité 'Ça ne fonctionne pas'"
+date: 2022-12-11T11:38:02-05:00
 draft: false
 cours: "Introduction a l'experience utilisateur"
-tags: 
-    - "Utilisateurs"
+tags:
+    - "Site Web"
+    - "Developpement"
+    - "Points de contact"
 
 # PaperMod Page Variables (https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/#page-variables)
 showtoc: false
 tocopen: false
 hidemeta: false
 comments: false
-summary: "Le principal acteur du processus UX est l'utilisateur, dans toutes ses incarnations..."
+description: # Post description under title
 canonicalURL: 
 ShowCanonicalLink: false
 CanonicalLinkText:
@@ -44,13 +45,14 @@ images:
     - "img/profile-picture.png"
 ---
 
-> *Le principal acteur du processus UX est l'utilisateur, dans toutes ses incarnations.*
+Ça ne pourrait pas être une bonne idée d'ajouter une fonctionnalité flottante
+*Ça ne fonctionne pas* sur toutes les pages du site?
 <!--more-->
 
-Se pourrait-il que la bibliothèque (lire: ses employé.e.s) aient pris trop d'espace
-dans le processus décisionnel au détriment de notre clientèle?
+Un peu comme les bas de page de plusieurs sites où on voit une section
+*Cette page vous a-t-elle été utile?*, avoir ce type de fonctionnalité pourrait
+nous permettre d'avoir un *feedback* direct sur un élément particulier du site
+Web.
 
-Par le jargon utilisé, par [l'implication des utilisateurs]({{< ref "/reflexions/implication-des-utilisateurs" >}}),
-avons-nous bien servi ces derniers?
-
-Nous le saurons lors du prochain projet...
+Dans une optique de *always ongoing UX process*, une telle fonctionnalité
+pourrait être vraiment pratique.
