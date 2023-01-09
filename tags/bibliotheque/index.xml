@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Site Web on Design et évaluation UX</title>
-    <link>https://metalogueur.github.io/design-evaluation-ux/tags/site-web/</link>
-    <description>Recent content in Site Web on Design et évaluation UX</description>
+    <title>Bibliotheque on Design et évaluation UX</title>
+    <link>https://metalogueur.github.io/design-evaluation-ux/tags/bibliotheque/</link>
+    <description>Recent content in Bibliotheque on Design et évaluation UX</description>
     <image>
       <url>https://metalogueur.github.io/design-evaluation-ux/105</url>
       <link>https://metalogueur.github.io/design-evaluation-ux/105</link>
@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     <copyright>&amp;copy; 2022 [Benoit Hamel](https://www.metalogueur.com)</copyright>
-    <lastBuildDate>Sun, 08 Jan 2023 20:29:53 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/site-web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 20:29:53 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/design-evaluation-ux/tags/bibliotheque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Genèse</title>
       <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/la-genese/</link>
@@ -22,16 +22,6 @@
 l&amp;rsquo;oreille concernant l&amp;rsquo;importance de l&amp;rsquo;expérience utilisateur et la nécessité
 d&amp;rsquo;envoyer deux de ses employés en formation pour développer une expertise en
 la matière?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Une fonctionnalité &#39;Ça ne fonctionne pas&#39;</title>
-      <link>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</link>
-      <pubDate>Sun, 11 Dec 2022 11:38:02 -0500</pubDate>
-      
-      <guid>https://metalogueur.github.io/design-evaluation-ux/reflexions/fonctionnalite-fonctionne-pas/</guid>
-      <description>&lt;p&gt;Ça ne pourrait pas être une bonne idée d&amp;rsquo;ajouter une fonctionnalité flottante
-&lt;em&gt;Ça ne fonctionne pas&lt;/em&gt; sur toutes les pages du site?&lt;/p&gt;</description>
     </item>
     
   </channel>
