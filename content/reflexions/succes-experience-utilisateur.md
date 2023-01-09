@@ -1,6 +1,7 @@
 ---
 title: "Le succès de l'expérience utilisateur"
 date: 2022-12-11T17:17:39-05:00
+lastmod: 2023-01-08T20:35:00-05:00
 draft: false
 cours: "Introduction a l'experience utilisateur"
 tags:
@@ -48,7 +49,7 @@ images:
 >
 > -- [Nielsen Norman Group. *User Experience Careers*](https://www.nngroup.com/reports/user-experience-careers/)
 
-Ce qui est formidable dans le cas présente, c'est que moi et mon collègue Jean-Yves avons la 
+Ce qui est formidable dans le cas présent, c'est que moi et mon collègue Jean-Yves avons la 
 connaissance technique pour concevoir des interfaces graphiques. Nous ne sommes peut-être pas
 au niveau *nec plus ultra* du développement Web, mais nous sommes assez *geeks* pour mettre
 nos connaissances à niveau si le besoin se présente.
